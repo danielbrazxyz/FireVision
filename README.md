@@ -1,7 +1,7 @@
 # FireVision
 Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Computação da Universidade Federal do Espírito Santo.
 ## <a href="#sumario">Sumário</a>
-### <a href="#6 -Conclusões">Conclusões</a>
+### *[conclusões](#Conclusões)</a>
 O avanço das tecnologias embarcadas e dos sensores inerciais têm possibilitado o
 desenvolvimento de sistemas capazes de interpretar movimentos humanos e transformá-los
 em comandos digitais. Essa integração entre hardware e software é fundamental em áreas
