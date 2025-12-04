@@ -85,7 +85,7 @@ de eletrônica, sensores, processamento de sinais e programação embarcada.
 A proposta consiste em converter os movimentos captados pelo sensor em sinais digitais que
 o Arduino possa interpretar, permitindo “escrever no ar” e visualizar as letras reconhecidas
 em tempo real. Dessa forma, o experimento proporciona uma experiência prática sobre a
-## 6 - Conclusões
+##<a href="#Conclusões">6 - Conclusões</a> 
 O avanço das tecnologias embarcadas e dos sensores inerciais têm possibilitado o
 desenvolvimento de sistemas capazes de interpretar movimentos humanos e transformá-los
 em comandos digitais. Essa integração entre hardware e software é fundamental em áreas
