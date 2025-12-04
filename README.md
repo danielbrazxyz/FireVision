@@ -1,7 +1,7 @@
 # FireVision
 Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Computação da Universidade Federal do Espírito Santo.
 ## <a href="#sumario">Sumário</a>
-### *[conclusões](#Conclusões)</a>
+### *[conclusões](#6 -Conclusões)</a>
 O avanço das tecnologias embarcadas e dos sensores inerciais têm possibilitado o
 desenvolvimento de sistemas capazes de interpretar movimentos humanos e transformá-los
 em comandos digitais. Essa integração entre hardware e software é fundamental em áreas
@@ -85,7 +85,7 @@ de eletrônica, sensores, processamento de sinais e programação embarcada.
 A proposta consiste em converter os movimentos captados pelo sensor em sinais digitais que
 o Arduino possa interpretar, permitindo “escrever no ar” e visualizar as letras reconhecidas
 em tempo real. Dessa forma, o experimento proporciona uma experiência prática sobre a
-## <a href="#Conclusões">6 -Conclusões</a> 
+## <a href="6 -Conclusões">6 -Conclusões</a> 
 O avanço das tecnologias embarcadas e dos sensores inerciais têm possibilitado o
 desenvolvimento de sistemas capazes de interpretar movimentos humanos e transformá-los
 em comandos digitais. Essa integração entre hardware e software é fundamental em áreas
