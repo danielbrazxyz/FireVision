@@ -1,6 +1,6 @@
 # FireVision
 <img width="100" height="150" alt="Flamengo_braz_logo svg" src="https://github.com/user-attachments/assets/d6c789bb-da5b-4b51-a3ce-7fdf1dad2e15" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/af8f7f09-9ab5-423b-a094-f0fff9af9f87" />
+<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/af8f7f09-9ab5-423b-a094-f0fff9af9f87" />
 
 
 Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Computação da Universidade Federal do Espírito Santo.
