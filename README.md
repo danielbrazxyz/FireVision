@@ -37,13 +37,46 @@ O avanço das tecnologias embarcadas e dos sensores inerciais têm possibilitado
 
 ## 4 - Estratégia de Codificação do Alfabeto
 O avanço das tecnologias embarcadas e dos sensores inerciais têm possibilitado...
+aquiii
+aqui
+aqui
+aqui
+aqui
+aqui
+aqui
+aqui
+aqui
+aqui
 
 ---
 
 ## 5 - Resultados e Discussão
-O avanço das tecnologias embarcadas e dos sensores inerciais têm possibilitado...
+daniel silva braz esteve aqui , daniel silva braz esteve aqui , 
+daniel silva braz esteve aqui , 
+daniel silva braz esteve aqui , 
+daniel silva braz esteve aqui , 
+daniel silva braz esteve aqui , 
+daniel silva braz esteve aqui , 
+daniel silva braz esteve aqui , 
+
 
 ---
 
 ## 7 - Referências Bibliográficas
-O avanço das tecnologias embarcadas e dos sensores inerciais têm possibilitado...
+ola mundo, ola mundo, 
+ola mundo, 
+ola mundo, 
+ola mundo, 
+ola mundo, 
+ola mundo, 
+ola mundo, 
+ola mundo, 
+ola mundo, 
+ola mundo, 
+ola mundo, 
+ola mundo, 
+ola mundo, 
+ola mundo, 
+ola mundo, 
+ola mundo, 
+
