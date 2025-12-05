@@ -3,7 +3,7 @@ Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Comput
 
 ## Sumário
 - [Resumo](#resumo)
-- [1 - Introdução](#1introdução)
+- [1 - Introdução](#Introdução)
 - [2 - Embasamento Teórico](#2---embasamento-teórico)
 - [3 - Materiais e Metodologia](#3---materiais-e-metodologia)
 - [4 - Estratégia de Codificação do Alfabeto](#4---estratégia-de-codificação-do-alfabeto)
@@ -16,7 +16,7 @@ Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Comput
 
 ---
 
-## 1 - Introdução
+##Introdução
 Clube de Regatas do Flamengo (mais conhecido como Flamengo e cujo acrônimo é CRF) é uma agremiação poliesportiva brasileira com sede na cidade do Rio de Janeiro, capital do estado homônimo. Fundado no bairro do Flamengo[nota 1] para disputas do esporte remo em 17 de novembro de 1895,[2][11] tornou-se um dos clubes mais bem-sucedidos e populares do esporte brasileiro especialmente pelo futebol. É considerado um dos maiores e mais tradicionais clubes do Brasil e da América do Sul. Tem como suas cores tradicionais o vermelho e o preto e como seus maiores rivais esportivos o Vasco da Gama, o Fluminense e o Botafogo.
 
 Dentre seus maiores títulos no futebol, destacam-se as conquistas da Copa Intercontinental[nota 2] (único time carioca a ter conquistado um título de dimensão mundial reconhecido pela FIFA)[12] e das Copas Libertadores da América de 1981[nota 3], 2019, 2022 e 2025 (único e primeiro time brasileiro a ter conquistado por quatro vezes a competição, e um dos sete do Brasil a tê-la conquistado mais de uma vez), além de uma Recopa Sul-Americana, uma Copa Mercosul e uma Copa de Ouro Nicolás Leoz, o que lhe confere a quarta posição no ranking de títulos internacionais de clubes brasileiros. Em se tratando de Copa Libertadores da América o Flamengo é o quarto com maior aproveitamento na competição, além de ser o clube com o melhor desempenho considerando apenas duelos entre equipes brasileiras até 2019.[14] Em relação às conquistas nacionais o Flamengo é, por decisão judicial, e em seguida, pela CBF, oficialmente detentor de oito títulos do Campeonato Brasileiro (1980, 1982, 1983, 1992, 2009, 2019, 2020 e 2025), conquistou também a Copa União (Troféu João Havelange) – com reconhecimento limitado pela CBF –,[15][16] cinco títulos da Copa do Brasil, três Supercopas do Brasil e uma Copa dos Campeões. Estas conquistas dão ao clube o segundo lugar no ranking de títulos nacionais, atrás apenas do Palmeiras (18 conquistas).[17] É também, segundo um levantamento feito pela ESPN Brasil, o primeiro clube do Brasil a ter conquistado todos os títulos nacionais e internacionais possíveis.[18]
