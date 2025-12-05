@@ -3,7 +3,7 @@ Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Comput
 
 ## Sumário
 - [Resumo](#resumo)
-- [1 - Introdução](#1---introdução)
+- [1 - Introdução](#1introdução)
 - [2 - Embasamento Teórico](#2---embasamento-teórico)
 - [3 - Materiais e Metodologia](#3---materiais-e-metodologia)
 - [4 - Estratégia de Codificação do Alfabeto](#4---estratégia-de-codificação-do-alfabeto)
