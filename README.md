@@ -13,7 +13,7 @@ Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Comput
 ---
 
 ## Resumo
-Palestina (em árabe: فلسطين, Filasṭīn), oficialmente Estado da Palestina[nota 1] (em árabe: دولة فلسطين, Dawlat Filasṭīn),[5] é um país de reconhecimento limitado situado no Oriente Médio. Reconhecido por 157 dos 193 Estados-membros da ONU,[8][9][10][11] o país abrange a Cisjordânia ocupada por Israel e a Faixa de Gaza,[12] incluíndo Jerusalém Oriental, que são coletivamente conhecidos como territórios palestinos ocupados, dentro da região geográfica e histórica mais ampla da Palestina. A Palestina designa Jerusalém Oriental como sua capital, mas seu centro administrativo está localizado na cidade de Ramala. A sua independência foi declarada em 15 de novembro de 1988 pela Organização para a Libertação da Palestina (OLP) e por seu governo no exílio em Argel, na Argélia. No entanto, a maioria das áreas reivindicadas pelos palestinos estão ocupadas por Israel desde a Guerra dos Seis Dias, em 1967. Após a Segunda Guerra Mundial, em 1947, as Nações Unidas adotaram um Plano para Partilha da Palestina, recomendando a criação de dois estados árabe e judeu independentes, com uma Jerusalém internacionalizada. Em 1993, os Acordos de Oslo estabeleceram a Autoridade Nacional Palestina, que realiza a administração sociopolítica de áreas delimitadas dos territórios, enquanto o Hamas controla a Faixa de Gaza.
+
 ---
 
 ## 1 - Introdução
