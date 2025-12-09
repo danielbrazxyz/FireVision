@@ -8,9 +8,9 @@ Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Comput
 - [Introdução](#Introdução)
 - [Embasamento Teórico](#Embasamento-teórico)
 - [Materiais e Metodologia](#Materiais-e-metodologia)
-- [4 - Estratégia de Codificação do Alfabeto](#4---estratégia-de-codificação-do-alfabeto)
-- [5 - Resultados e Discussão](#5---resultados-e-discussão)
-- [7 - Referências Bibliográficas](#7---referências-bibliográficas)
+- [Estratégia de Codificação do Alfabeto](#Estratégia-de-codificação-do-alfabeto)
+- [Resultados e Discussão](#Resultados-e-discussão)
+- [Referências Bibliográficas](#Referências-bibliográficas)
 
 ---
 
@@ -26,20 +26,20 @@ Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Comput
 
 ---
 
-## 3 - Materiais e Metodologia
+## Materiais e Metodologia
 
 
 ---
 
-## 4 - Estratégia de Codificação do Alfabeto
+## Estratégia de Codificação do Alfabeto
 
 
 ---
 
-## 5 - Resultados e Discussão
+## Resultados e Discussão
 
 
 ---
 
-## 7 - Referências Bibliográficas
+## Referências Bibliográficas
 
