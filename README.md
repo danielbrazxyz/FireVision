@@ -20,31 +20,31 @@ Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Comput
 ---
 
 ## Resumo
+  <p>Com o intuito de reduzir os danos cuasados pelas chamas, o presente trabalho visa o desenvolvimento de um carro robótico capaz de combater focos de incêndio. Através de comunicação via bluetooth, o seu controle remoto permitirá que os profissionais resposáveis pelo combate aos incêncios, tenham menos contato com os focos de incêndio e uma maior segurança durante a operação.</p>
 
----
 
 ## Introdução
 
----
+
 
 ## Embasamento Teórico
 
----
+
 
 ## Materiais e Metodologia
 
 
----
+
 
 ## Estratégia de Codificação do Alfabeto
 
 
----
+
 
 ## Resultados e Discussão
 
 
----
+
 
 ## Referências Bibliográficas
 
