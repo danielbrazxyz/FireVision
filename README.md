@@ -1,6 +1,4 @@
 # FireVision
-file:///home/dsbraz/Downloads/logo_equipe_firevision%20(1).jpg
-
 
 
 Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Computação da Universidade Federal do Espírito Santo.
