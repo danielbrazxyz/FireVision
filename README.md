@@ -34,7 +34,9 @@ O projeto FIREVISION tem como objetivo desenvolver um robô inteligente capaz de
 
 
 ## Embasamento Teórico
-<p>2.1 Robótica Móvel
+<p>
+
+### 2.1 Robótica Móvel
 
 A robótica móvel estuda sistemas robóticos capazes de se locomover de forma autônoma ou semiautônoma em diferentes ambientes. Esses sistemas utilizam motores, sensores e unidades de processamento para realizar navegação, controle e tomada de decisão.
 
@@ -52,7 +54,9 @@ A IoT possibilita a comunicação entre dispositivos físicos por meio da intern
 
 
 ## Materiais e Metodologia
-<p> 3.1 Materiais Utilizados
+<p> 
+  
+### 3.1 Materiais Utilizados
 
 Placa microcontroladora (Arduino ou ESP32);
 
@@ -70,7 +74,7 @@ Estrutura mecânica com rodas;
 
 Fonte de alimentação.
 
-3.2 Metodologia
+### 3.2 Metodologia
 
 O desenvolvimento do projeto seguiu as seguintes etapas metodológicas:
 
