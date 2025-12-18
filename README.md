@@ -38,21 +38,21 @@ O projeto FIREVISION tem como objetivo desenvolver um robô inteligente capaz de
 
 A robótica móvel estuda sistemas robóticos capazes de se locomover de forma autônoma ou semiautônoma em diferentes ambientes. Esses sistemas utilizam motores, sensores e unidades de processamento para realizar navegação, controle e tomada de decisão.
 
-2.2 Sensores de Incêndio
+### 2.2 Sensores de Incêndio
 
 Sensores de chama e sensores de temperatura são amplamente utilizados para a detecção de incêndios. Sensores de chama operam a partir da detecção de radiação infravermelha emitida pelo fogo, enquanto sensores térmicos monitoram variações anormais de temperatura no ambiente.
 
-2.3 Visão Computacional
+### 2.3 Visão Computacional
 
 A visão computacional permite que sistemas computacionais interpretem imagens e vídeos. No FIREVISION, essa tecnologia é utilizada para identificar a presença de pessoas no ambiente, aumentando a segurança durante operações de combate a incêndios.
 
-2.4 Internet das Coisas (IoT)
+### 2.4 Internet das Coisas (IoT)
 
 A IoT possibilita a comunicação entre dispositivos físicos por meio da internet ou redes sem fio. No projeto, essa tecnologia é empregada para permitir o controle remoto do robô e o envio de alertas ao usuário.</p>
 
 
 ## Materiais e Metodologia
-<p>3.1 Materiais Utilizados
+<p> 3.1 Materiais Utilizados
 
 Placa microcontroladora (Arduino ou ESP32);
 
