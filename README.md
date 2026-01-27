@@ -10,8 +10,8 @@ Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Comput
 
 ## Trabalho desenvolvido por:
 
-<p>Daniel Silva Braz<p>
-João Vitor Coimbra Silva<p>
+<p>Daniel Silva Braz
+João Vitor Coimbra Silva
 Thiago Messias Martinelli<p>
 
 ## Sumário
@@ -40,7 +40,7 @@ O projeto FIREVISION tem como objetivo desenvolver um robô inteligente capaz de
 
 
 ## Embasamento Teórico
-<p>
+<p>Trabalho desenvolvido por:
 
 ### 2.1 Robótica Móvel
 
