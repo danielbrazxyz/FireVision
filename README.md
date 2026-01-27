@@ -10,7 +10,7 @@ Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Comput
 
 #### Trabalho desenvolvido por:
 
-#### <p>Daniel Silva Braz<p>
+<p>Daniel Silva Braz<p>
 <p>João Vitor Coimbra Silva<p>
 <p>Thiago Messias Martinelli<p>
 
@@ -64,11 +64,9 @@ A IoT possibilita a comunicação entre dispositivos físicos por meio da intern
   
 ### 3.1 Materiais Utilizados
 
-Placa microcontroladora (Arduino ou ESP32);
+Placa microcontroladora (ESP32);
 
-Módulo Wi-Fi ou Bluetooth;
-
-Sensores de chama e/ou temperatura;
+Sensores de chama;
 
 Câmera para captura de imagens;
 
