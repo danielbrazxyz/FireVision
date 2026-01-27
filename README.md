@@ -3,7 +3,7 @@
   <img width="200" style="text-align: center"  height="200" alt="image" src="https://github.com/user-attachments/assets/3045c2e9-b55c-47fa-851f-15289f1beac3" />
 </p>
 
-<img src="realistic-shot-waving-flag-china-with-interesting-textures.jpg" width="400">
+<img src="realistic-shot-waving-flag-china-with-interesting-textures.jpg" width="2000">
 
 
  # FireVision
