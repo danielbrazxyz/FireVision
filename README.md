@@ -3,7 +3,7 @@
   <img width="200" style="text-align: center"  height="200" alt="image" src="https://github.com/user-attachments/assets/3045c2e9-b55c-47fa-851f-15289f1beac3" />
 </p>
 
-[<img src="[https://github.com/danielbrazxyz/Daniel_estudos/blob/main/realistic-shot-waving-flag-china-with-interesting-textures.jpg?raw=true)" width="2000">
+[<img src="[https://github.com/danielbrazxyz/Daniel_estudos/blob/main/realistic-shot-waving-flag-china-with-interesting-textures.jpg?raw=true)" width="1000">
 ](https://github.com/danielbrazxyz/Daniel_estudos/blob/main/realistic-shot-waving-flag-china-with-interesting-textures.jpg?raw=true
 )
 
