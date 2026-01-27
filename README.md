@@ -8,6 +8,12 @@
 
 Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Computação da Universidade Federal do Espírito Santo.
 
+<h1>Trabalho desenvolvido por:
+
+Daniel Silva Braz
+João Vitor Coimbra Silva
+Thiago Messias Martinelli
+
 ## Sumário
 - [Resumo](#resumo)
 - [Introdução](#Introdução)
@@ -93,13 +99,6 @@ Desenvolvimento e treinamento do modelo de visão computacional;
 Integração dos módulos;
 
 Testes em ambiente controlado.</p>
-
-
-
-## Estratégia de Codificação do Alfabeto
-
-
-
 
 ## Resultados e Discussão
 
