@@ -8,11 +8,13 @@
 
 Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Computação da Universidade Federal do Espírito Santo.
 
+<p>Trabalho desenvolvido por:</p>
+<p>
+Daniel Silva Braz<br>
+João Vitor Coimbra Silva<br>
+Thiago Messias Martinelli
+</p>
 
-<p><strong>Trabalho desenvolvido por:</strong></p>
-<p>Daniel Silva Braz</p>
-<p>João Vitor Coimbra Silva</p>
-<p>Thiago Messias Martinelli</p>
 
 
 
