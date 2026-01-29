@@ -12,7 +12,7 @@ Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Comput
 
 <p>
 Daniel Silva Braz<br>
- João Vitor Coimbra Silva<br>
+João Vitor Coimbra Silva<br>
 Thiago Messias Martinelli
 </p>
 
