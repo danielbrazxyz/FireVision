@@ -10,11 +10,11 @@ Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Comput
 
 #### Trabalho desenvolvido por:
 
-<ul style="list-style: none; padding: 0; margin: 0;">
-  <li>Daniel Silva Braz</li>
-  <li>João Vitor Coimbra Silva</li>
-  <li>Thiago Messias Martinelli</li>
-</ul>
+<p><strong>Trabalho desenvolvido por:</strong></p>
+<p>Daniel Silva Braz</p>
+<p>João Vitor Coimbra Silva</p>
+<p>Thiago Messias Martinelli</p>
+
 
 
 
