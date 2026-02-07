@@ -6,113 +6,192 @@
  # FireVision
 
 
-Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Computação da Universidade Federal do Espírito Santo.
+🔥 FireVision
 
-#### Trabalho desenvolvido por:
+Repositório do trabalho da disciplina de Projeto Integrado de Computação I (PIC I)
+Curso de Engenharia de Computação – Universidade Federal do Espírito Santo (UFES)
 
-<p>
-Daniel Silva Braz<br>
-João Vitor Coimbra Silva<br>
+👨‍💻 Trabalho desenvolvido por
+
+Daniel Silva Braz
+
+João Vitor Coimbra Silva
+
 Thiago Messias Martinelli
-</p>
 
+📑 Sumário
 
+Resumo
 
+Introdução
 
+Embasamento Teórico
 
-## Sumário
-- [Resumo](#resumo)
-- [Introdução](#Introdução)
-- [Embasamento Teórico](#Embasamento-teórico)
-- [Materiais e Metodologia](#Materiais-e-metodologia)
-- [Estratégia de Codificação](#Estratégia-de-codificação-do-alfabeto)
-- [Resultados e Discussão](#Resultados-e-discussão)
-- [Referências Bibliográficas](#Referências-bibliográficas)
+Materiais e Metodologia
 
----
+Estratégia de Codificação
 
-## Resumo
-  <p>Os incêndios representam uma das principais ameaças à segurança humana e ambiental, especialmente em áreas urbanas e florestais. Nesse contexto, este projeto apresenta o desenvolvimento do FIREVISION, um robô móvel inteligente voltado ao combate inicial a incêndios. O sistema é capaz de se locomover em ambientes internos, detectar focos de fogo por meio de sensores específicos, extinguir automaticamente o incêndio e identificar a presença de pessoas utilizando visão computacional. O controle do robô é realizado remotamente por meio de um aplicativo para dispositivos móveis. O projeto busca reduzir riscos à vida humana, otimizar o tempo de resposta em emergências e promover o uso da robótica e automação como ferramentas de apoio à segurança pública e ambiental.
+Resultados e Discussão
 
-Palavras-chave: Robótica móvel; Combate a incêndios; Visão computacional; Automação; Sistemas embarcados.</p>
+Fluxogramas e Diagramas Técnicos
 
+Conclusão
 
-## Introdução
-<p>Incêndios são responsáveis por grandes prejuízos sociais, econômicos e ambientais, além de representarem um risco direto à vida humana. No Brasil, episódios recorrentes de queimadas e incêndios estruturais demonstram a necessidade de soluções tecnológicas que auxiliem no combate rápido e seguro dessas ocorrências.
+Referências Bibliográficas
 
-Tradicionalmente, o combate a incêndios depende fortemente da atuação humana, expondo bombeiros e equipes de resgate a ambientes extremamente perigosos. Diante disso, o uso de robôs móveis surge como uma alternativa viável para atuar em cenários de risco, especialmente em estágios iniciais do incêndio.
+1. Resumo
 
-O projeto FIREVISION tem como objetivo desenvolver um robô inteligente capaz de detectar focos de incêndio, extingui-los automaticamente e identificar a presença de pessoas no local, reduzindo a exposição humana ao perigo e contribuindo para ações preventivas e corretivas.</p>
+Os incêndios representam uma das principais ameaças à segurança humana e ambiental, especialmente em áreas urbanas e florestais. Nesse contexto, este projeto apresenta o desenvolvimento do FireVision, um robô móvel inteligente voltado ao combate inicial a incêndios em pequena escala.
 
+O sistema é capaz de se locomover em ambientes internos, detectar focos de fogo por meio de sensores de chama, extinguir automaticamente o incêndio utilizando um sistema de bombeamento de água e operar de forma remota por meio de um aplicativo móvel via comunicação sem fio. O projeto busca reduzir riscos à vida humana, otimizar o tempo de resposta em emergências e promover o uso da robótica e automação como ferramentas de apoio à segurança pública e ambiental.
 
-## Embasamento Teórico
-<p>Trabalho desenvolvido por:
+Palavras-chave: Robótica móvel; Combate a incêndios; Automação; Sistemas embarcados; IoT.
 
-### 2.1 Robótica Móvel
+2. Introdução
+
+Incêndios são responsáveis por grandes prejuízos sociais, econômicos e ambientais, além de representarem um risco direto à vida humana. No Brasil, episódios recorrentes de queimadas e incêndios estruturais evidenciam a necessidade de soluções tecnológicas capazes de auxiliar no combate rápido e seguro dessas ocorrências.
+
+Tradicionalmente, o combate a incêndios depende fortemente da atuação humana, expondo bombeiros e equipes de resgate a ambientes extremamente perigosos. Diante desse cenário, o uso de robôs móveis surge como uma alternativa viável para atuar em situações de risco, especialmente em estágios iniciais do incêndio.
+
+O projeto FireVision tem como objetivo desenvolver um robô inteligente capaz de detectar focos de incêndio, extingui-los automaticamente e permitir controle remoto, reduzindo a exposição humana ao perigo e contribuindo para ações preventivas e corretivas.
+
+3. Embasamento Teórico
+3.1 Robótica Móvel
 
 A robótica móvel estuda sistemas robóticos capazes de se locomover de forma autônoma ou semiautônoma em diferentes ambientes. Esses sistemas utilizam motores, sensores e unidades de processamento para realizar navegação, controle e tomada de decisão.
 
-### 2.2 Sensores de Incêndio
+3.2 Sensores de Incêndio
 
-Sensores de chama e sensores de temperatura são amplamente utilizados para a detecção de incêndios. Sensores de chama operam a partir da detecção de radiação infravermelha emitida pelo fogo, enquanto sensores térmicos monitoram variações anormais de temperatura no ambiente.
+Sensores de chama operam a partir da detecção de radiação infravermelha emitida pelo fogo. Esses sensores são amplamente utilizados em sistemas de detecção precoce de incêndios devido à sua rápida resposta e baixo custo.
 
-### 2.3 Visão Computacional
+3.3 Internet das Coisas (IoT)
 
-A visão computacional permite que sistemas computacionais interpretem imagens e vídeos. No FIREVISION, essa tecnologia é utilizada para identificar a presença de pessoas no ambiente, aumentando a segurança durante operações de combate a incêndios.
+A Internet das Coisas possibilita a comunicação entre dispositivos físicos por meio de redes sem fio. No projeto FireVision, essa tecnologia é empregada para permitir o controle remoto do robô por meio de um aplicativo móvel.
 
-### 2.4 Internet das Coisas (IoT)
+4. Materiais e Metodologia
+4.1 Materiais Utilizados
 
-A IoT possibilita a comunicação entre dispositivos físicos por meio da internet ou redes sem fio. No projeto, essa tecnologia é empregada para permitir o controle remoto do robô e o envio de alertas ao usuário.</p>
+ESP32 (microcontrolador com Wi-Fi e Bluetooth);
 
+Sensores de chama (3 unidades);
 
-## Materiais e Metodologia
-<p> 
-  
-### 3.1 Materiais Utilizados
+Motores DC (4 unidades);
 
-Placa microcontroladora (ESP32);
+Ponte H L298N;
 
-Sensores de chama;
+Bomba d’água com relé;
 
-Câmera para captura de imagens;
+Servomotor;
 
-Motores DC e driver de controle;
+Rodas e estrutura mecânica;
 
-Bomba d’água e reservatório;
+Bateria Li-ion 7,4 V – 3200 mAh;
 
-Estrutura mecânica com rodas;
+Cabos e resistores.
 
-Fonte de alimentação.
+4.2 Metodologia
 
-### 3.2 Metodologia
-
-O desenvolvimento do projeto seguiu as seguintes etapas metodológicas:
+O desenvolvimento do projeto seguiu as seguintes etapas:
 
 Definição dos requisitos do sistema;
 
-Aquisição e testes dos componentes eletrônicos;
+Seleção e testes dos componentes eletrônicos;
 
-Montagem da estrutura física do robô;
+Montagem da estrutura mecânica;
 
-Programação do firmware do microcontrolador;
+Integração do sistema eletrônico;
 
-Implementação do sistema de comunicação com o aplicativo móvel;
+Desenvolvimento do firmware do microcontrolador;
 
-Desenvolvimento e treinamento do modelo de visão computacional;
+Implementação da comunicação com o aplicativo móvel;
 
-Integração dos módulos;
+Testes em ambiente controlado.
 
-Testes em ambiente controlado.</p>
+5. Estratégia de Codificação
 
-## Resultados e Discussão
+A estratégia de codificação adotada priorizou:
 
-<p>Os testes iniciais demonstraram que o robô é capaz de se locomover adequadamente pelo ambiente, detectar focos de incêndio e acionar o sistema de extinção de forma automática. A detecção de pessoas por meio da câmera mostrou-se eficiente em ambientes bem iluminados.
+Uso de PWM para controle de velocidade dos motores;
 
-Entretanto, foram observadas limitações relacionadas à autonomia energética e à precisão da detecção em ambientes com fumaça densa, indicando a necessidade de melhorias futuras.</p>
+Utilização da função millis() ao invés de delay(), garantindo execução não bloqueante;
+
+Prioridade do modo automático, com acionamento do modo manual apenas quando não houver detecção de chamas;
+
+Organização modular do código, facilitando manutenção e expansão futura.
+
+6. Resultados e Discussão
+
+Os testes realizados demonstraram que o robô é capaz de se locomover adequadamente pelo ambiente, detectar focos de incêndio e acionar o sistema de extinção de forma automática. O controle manual mostrou-se eficiente em situações onde não havia detecção de chamas.
+
+Entretanto, foram observadas limitações relacionadas à autonomia energética e à precisão dos sensores em ambientes com muita iluminação externa, indicando a necessidade de ajustes futuros.
+
+7. Fluxogramas e Diagramas Técnicos
+7.1 Fluxograma Geral de Funcionamento
+flowchart TD
+    A[Início] --> B[Inicialização do ESP32]
+    B --> C[Leitura dos sensores]
+    C --> D{Chama detectada?}
+
+    D -- Sim --> E[Modo automático]
+    E --> F[Mover até a chama]
+    F --> G[Acionar bomba]
+    G --> H{Chama extinta?}
+    H -- Não --> G
+    H -- Sim --> C
+
+    D -- Não --> I{Controle manual ativo?}
+    I -- Sim --> J[Executar comandos]
+    I -- Não --> C
 
 
-## Conclusão
-<p>O projeto FIREVISION demonstrou ser uma solução viável e inovadora para o combate inicial a incêndios, integrando robótica móvel, sensores e visão computacional. A proposta contribui para a redução de riscos humanos, promove o uso da tecnologia em prol da segurança pública e está alinhada aos Objetivos de Desenvolvimento Sustentável da ONU, especialmente os ODS 9, 11 e 13.
+Figura 1 – Fluxograma geral de funcionamento do sistema FireVision.
 
-Como trabalhos futuros, propõe-se a melhoria da autonomia do sistema, a ampliação dos algoritmos de detecção e a realização de testes em ambientes mais complexos.</p>
+7.2 Fluxograma de Detecção e Combate
+flowchart TD
+    A[Sensor de chama] --> B{Fogo detectado?}
+    B -- Sim --> C[Ajustar direção]
+    C --> D[Ativar bomba]
+    D --> E{Ainda há fogo?}
+    E -- Sim --> D
+    E -- Não --> A
+    B -- Não --> A
 
+
+Figura 2 – Fluxograma do sistema de combate a incêndio.
+
+7.3 Diagrama de Blocos do Sistema
+Sensores de chama ──▶ ESP32 ──▶ Ponte H ──▶ Motores
+                         │
+                         ├──▶ Relé ──▶ Bomba d'água
+                         └──▶ Wi-Fi ──▶ Aplicativo móvel
+
+
+Figura 3 – Diagrama de blocos do sistema eletrônico.
+
+7.4 Diagrama de Estados
+stateDiagram-v2
+    [*] --> Inicializacao
+    Inicializacao --> Monitoramento
+    Monitoramento --> Combate : Fogo detectado
+    Monitoramento --> Manual : Sem fogo
+    Combate --> Monitoramento : Fogo extinto
+    Manual --> Monitoramento : Sem comandos
+
+
+Figura 4 – Diagrama de estados do robô FireVision.
+
+8. Conclusão
+
+O projeto FireVision demonstrou ser uma solução viável e inovadora para o combate inicial a incêndios em pequena escala. A integração entre robótica móvel, sensores e sistemas embarcados permitiu o desenvolvimento de um robô funcional, capaz de operar de forma autônoma ou manual.
+
+Como trabalhos futuros, sugere-se a melhoria da autonomia energética, a inclusão de novos sensores e a realização de testes em ambientes mais complexos.
+
+9. Referências Bibliográficas
+
+CRAIG, J. J. Introduction to Robotics: Mechanics and Control. Pearson.
+
+SIEGWART, R.; NOURBAKHSH, I. Introduction to Autonomous Mobile Robots. MIT Press.
+
+ESPRESSIF SYSTEMS. ESP32 Technical Reference Manual.
+
+IEEE. Standards for Robotics and Automation.
