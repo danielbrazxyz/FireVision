@@ -135,7 +135,7 @@ flowchart TD
     D -- Não --> I{Controle manual ativo?}
     I -- Sim --> J[Executar comandos]
     I -- Não --> C
-
+```
 ---
 
 ## Conclusão
