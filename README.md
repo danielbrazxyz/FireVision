@@ -135,3 +135,19 @@ flowchart TD
     D -- Não --> I{Controle manual ativo?}
     I -- Sim --> J[Executar comandos]
     I -- Não --> C
+
+
+## Conclusão
+
+O projeto **FireVision** demonstrou ser uma solução viável e inovadora para o combate inicial a incêndios em pequena escala. A integração entre robótica móvel, sensores e sistemas embarcados possibilitou o desenvolvimento de um robô funcional, capaz de operar de forma autônoma ou manual, reduzindo a exposição humana a ambientes perigosos.
+
+Como trabalhos futuros, sugere-se o aprimoramento da autonomia energética, a inclusão de novos sensores e a ampliação dos testes em ambientes mais complexos, visando aumentar a robustez e a confiabilidade do sistema.
+
+---
+
+## Referências Bibliográficas
+
+- CRAIG, J. J. *Introduction to Robotics: Mechanics and Control*. 3. ed. Upper Saddle River: Pearson, 2005.
+- SIEGWART, R.; NOURBAKHSH, I. *Introduction to Autonomous Mobile Robots*. Cambridge: MIT Press, 2004.
+- ESPRESSIF SYSTEMS. *ESP32 Technical Reference Manual*. 2023.
+- IEEE. *Standards for Robotics and Automation*. IEEE, 2020.
